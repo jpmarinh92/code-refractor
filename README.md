@@ -4,9 +4,9 @@
 
 ## Links
 
-- [Repo](https://github.com/jpmarinh92/code-refractor> "Horison Landing Page Repo")
+- [Repo](https://github.com/jpmarinh92/code-refractor "Horison Landing Page Repo")
 
-- [Live](https://jpmarinh92.github.io/code-refractor/ "Live View")
+- [Live](https://jpmarinh92.github.io/code-refractor "Live View")
 
 ## Built With
 
